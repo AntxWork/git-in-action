@@ -1,2 +1,2 @@
 Name: Ant
-Gender: Female
+Sex: Female
